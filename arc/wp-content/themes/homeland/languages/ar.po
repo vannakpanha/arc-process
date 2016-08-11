@@ -1,0 +1,5291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Homeland\n"
+"POT-Creation-Date: 2016-07-07 14:21+0800\n"
+"PO-Revision-Date: 2016-07-07 14:22+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "Looks like the file you are looking for is no longer available"
+msgstr "يبدو أن الملف الذي تبحث عنه هو لم يعد متوفرا"
+
+#: ../404.php:9
+msgid "Back to Homepage"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: ../404.php:20
+msgid "Error"
+msgstr ""
+
+#: ../404.php:21
+msgid "404"
+msgstr ""
+
+#: ../archive-homeland_properties.php:106 ../template-properties-1col.php:81
+#: ../template-properties-2cols.php:81 ../template-properties-3cols.php:81
+#: ../template-properties-4cols.php:81
+#: ../template-properties-dual-sidebar.php:85
+#: ../template-properties-featured.php:103
+#: ../template-properties-grid-sidebar.php:81
+#: ../template-properties-left-sidebar.php:81
+#: ../template-properties-sold.php:103 ../template-properties.php:81
+msgid "Properties found!"
+msgstr ""
+
+#: ../archive.php:101 ../includes/lib/custom-functions.php:1 ../index.php:24
+#: ../template-blog-2cols.php:42 ../template-blog-3cols.php:42
+#: ../template-blog-4cols.php:42 ../template-blog-fullwidth.php:38
+#: ../template-blog-grid-left-sidebar.php:42 ../template-blog-grid.php:42
+#: ../template-blog-left-sidebar.php:38 ../template-blog-list-alternate.php:38
+#: ../template-blog-timeline.php:38 ../template-blog.php:38
+msgid "You have no blog post yet!"
+msgstr "لا يوجد لديك بلوق وظيفة حتى الآن!"
+
+#: ../author.php:25
+msgid "Listed Properties"
+msgstr "خصائص المدرجة"
+
+#: ../author.php:97 ../single-homeland_properties.php:386
+#: ../template-agents-left-sidebar.php:134
+#: ../template-agents-list-fullwidth.php:132 ../template-agents.php:135
+msgid "Tel no"
+msgstr ""
+
+#: ../author.php:100 ../functions.php:1449
+#: ../single-homeland_properties.php:390
+#: ../template-agents-left-sidebar.php:141
+#: ../template-agents-list-fullwidth.php:139 ../template-agents.php:142
+#: ../template-print.php:280
+msgid "Mobile"
+msgstr "متحرك"
+
+#: ../author.php:103 ../functions.php:1450
+#: ../includes/customizer/option-contact.php:33
+#: ../single-homeland_properties.php:394
+#: ../template-agents-left-sidebar.php:148
+#: ../template-agents-list-fullwidth.php:146 ../template-agents.php:149
+#: ../template-contact-alternate.php:42 ../template-contact-alternate2.php:52
+#: ../template-contact.php:48 ../template-print.php:285
+msgid "Fax"
+msgstr "فاكس"
+
+#: ../bbpress/content-single-topic-lead.php:18
+#: ../bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "الخالق"
+
+#: ../bbpress/content-single-topic-lead.php:22
+#: ../bbpress/content-single-topic-lead.php:94 ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "موضوع"
+
+#: ../bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "مستخدم مسجل"
+
+#: ../bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:27 ../bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:32 ../bbpress/loop-forums.php:21
+#: ../bbpress/loop-replies.php:32 ../bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: ../bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: ../bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:33
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:55 ../bbpress/form-reply.php:44
+#: ../bbpress/form-topic.php:53
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:82 ../bbpress/form-reply.php:64
+#: ../bbpress/form-topic.php:82
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:138 ../bbpress/form-reply-move.php:72
+#: ../bbpress/form-reply.php:135 ../bbpress/form-topic-merge.php:93
+#: ../bbpress/form-topic-split.php:97 ../bbpress/form-topic.php:195
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:41 ../bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:49 ../bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:68 ../bbpress/form-topic-merge.php:89
+#: ../bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:93 ../bbpress/form-topic.php:156
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:97 ../bbpress/form-topic.php:160
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:114 ../bbpress/form-topic.php:176
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:118 ../bbpress/form-topic.php:180
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:166 ../bbpress/form-topic.php:218
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-search.php:14
+msgid "Search the forums..."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:64 ../bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:88
+msgid "Delete"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: ../bbpress/form-topic.php:35
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:35
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:45
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:67
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:93
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:106
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:109
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:125
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:137
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:226
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:226
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:14 ../bbpress/form-user-edit.php:19
+#: ../comments.php:60 ../functions.php:1399 ../functions.php:1407
+#: ../functions.php:1414 ../functions.php:1421
+#: ../includes/customizer/option-advance-search.php:173
+#: ../includes/customizer/option-advance-search.php:240
+#: ../includes/customizer/option-advance-search.php:307
+#: ../includes/customizer/option-agents.php:70
+#: ../includes/customizer/option-blog.php:123
+#: ../includes/customizer/option-home.php:242
+#: ../includes/customizer/option-home.php:595
+#: ../includes/customizer/option-home.php:805
+#: ../includes/customizer/option-home.php:907
+#: ../includes/customizer/option-portfolio.php:84
+#: ../includes/customizer/option-portfolio.php:175
+#: ../includes/customizer/option-properties.php:135
+#: ../includes/customizer/option-properties.php:198
+#: ../includes/customizer/option-properties.php:315
+#: ../includes/customizer/option-services.php:84
+#: ../includes/posts/post-partners.php:83
+#: ../includes/posts/post-portfolio.php:234
+#: ../includes/posts/post-properties.php:451
+#: ../includes/posts/post-testimonials.php:81
+#: ../single-homeland_properties.php:443
+msgid "Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:39
+#: ../includes/customizer/option-agents.php:69
+#: ../includes/customizer/option-home.php:906
+msgid "Display Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:49 ../bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:57 ../comments.php:62
+#: ../includes/posts/post-partners.php:84
+#: ../includes/posts/post-portfolio.php:236
+#: ../includes/widgets/widget-contact.php:121 ../template-print.php:262
+msgid "Website"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:90 ../bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:98 ../bbpress/form-user-login.php:17
+#: ../bbpress/form-user-register.php:23 ../includes/lib/custom-functions.php:1
+#: ../template-login.php:61
+msgid "Username"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:103 ../bbpress/form-user-register.php:28
+#: ../includes/customizer/option-agents.php:73
+#: ../includes/customizer/option-home.php:910
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/widgets/widget-contact.php:118
+#: ../template-contact-alternate.php:39 ../template-contact-alternate2.php:49
+#: ../template-contact.php:45 ../template-print.php:267
+msgid "Email"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:143 ../bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:14 ../bbpress/form-user-login.php:35
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:64
+msgid "Log In"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:22 ../includes/lib/custom-functions.php:1
+#: ../template-login.php:62
+msgid "Password"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:18
+#: ../includes/lib/custom-functions.php:1
+msgid "Username or Email"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:36 ../includes/lib/custom-functions.php:1
+#: ../template-login.php:73
+msgid "Register"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:19 ../includes/customizer/option-forum.php:4
+msgid "Forum"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:24
+#: ../bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:22 ../bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-search.php:18
+#: ../includes/customizer/option-blog.php:121
+#: ../includes/customizer/option-home.php:240
+#: ../includes/customizer/option-home.php:593
+#: ../includes/customizer/option-home.php:803
+#: ../includes/customizer/option-portfolio.php:82
+#: ../includes/customizer/option-portfolio.php:173
+#: ../includes/customizer/option-properties.php:133
+#: ../includes/customizer/option-properties.php:313
+#: ../includes/customizer/option-services.php:82
+#: ../includes/posts/post-services.php:187
+msgid "Author"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: ../bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:24
+msgid "in group forum "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:28
+msgid "in forum "
+msgstr ""
+
+#: ../bbpress/loop-search.php:22 ../functions.php:750
+msgid "Search Results"
+msgstr ""
+
+#: ../bbpress/loop-single-reply.php:43
+msgid "in reply to: "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:58
+#, php-format
+msgid "by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:66
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:20
+msgid "Last Poster"
+msgstr ""
+
+#: ../bbpress/user-details.php:29 ../bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: ../bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: ../bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: ../bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: ../bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: ../bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:40 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:40
+#: ../loop-entry.php:50 ../single.php:68
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:41 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:40
+#: ../loop-entry.php:50 ../single.php:68
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:25 ../comments.php:42 ../loop-entry-2cols.php:45
+#: ../loop-entry-3cols.php:45 ../loop-entry-4cols.php:45
+#: ../loop-entry-alternate.php:12 ../loop-entry-fullwidth.php:50
+#: ../loop-entry-grid.php:45 ../loop-entry-timeline.php:40
+#: ../loop-entry.php:50 ../single.php:68
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:61 ../includes/customizer/option-contact.php:21
+#: ../single-homeland_properties.php:444
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:71
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Post a Message"
+msgstr ""
+
+#: ../comments.php:75 ../single-homeland_properties.php:445
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:79
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../footer.php:30 ../footer.php:39 ../footer.php:48 ../footer.php:57
+#: ../sidebar-dual.php:5 ../sidebar.php:5
+msgid "This is a widget area, so please add widgets here..."
+msgstr ""
+
+#: ../functions.php:219
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:423 ../functions.php:508
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:145
+#: ../includes/widgets/widget-featured-properties.php:77
+#: ../loop-properties.php:46 ../loop-property-1col.php:47
+#: ../loop-property-2cols.php:48 ../loop-property-3cols.php:48
+#: ../loop-property-4cols.php:46 ../loop-property-home.php:47
+#: ../single-homeland_properties.php:151 ../template-print.php:94
+msgid "Sold"
+msgstr ""
+
+#: ../functions.php:423 ../functions.php:508
+msgid "View More"
+msgstr ""
+
+#: ../functions.php:674
+msgid "Enter property name"
+msgstr ""
+
+#: ../functions.php:676
+msgid "Enter portfolio name"
+msgstr ""
+
+#: ../functions.php:678
+msgid "Enter services name"
+msgstr ""
+
+#: ../functions.php:680
+msgid "Enter name"
+msgstr ""
+
+#: ../functions.php:682
+msgid "Enter partner name"
+msgstr ""
+
+#: ../functions.php:700 ../functions.php:714
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:744
+msgid "Our Properties"
+msgstr ""
+
+#: ../functions.php:745
+msgid "This is your property subtitle here"
+msgstr ""
+
+#: ../functions.php:746
+msgid "Our Portfolio"
+msgstr ""
+
+#: ../functions.php:747
+msgid "This is your portfolio subtitle here"
+msgstr ""
+
+#: ../functions.php:748
+msgid "Our Services"
+msgstr ""
+
+#: ../functions.php:749
+msgid "This is your services subtitle here"
+msgstr ""
+
+#: ../functions.php:751
+msgid "This is your search subtitle description"
+msgstr ""
+
+#: ../functions.php:752 ../includes/customizer/option-other-pages.php:29
+msgid "404 Page"
+msgstr ""
+
+#: ../functions.php:753
+msgid "This is your 404 not found subtitle here"
+msgstr ""
+
+#: ../functions.php:754
+msgid "Agent Profile"
+msgstr ""
+
+#: ../functions.php:755
+msgid "This is your agent subtitle here"
+msgstr ""
+
+#: ../functions.php:780
+msgid "Posts Tagged: "
+msgstr ""
+
+#: ../functions.php:781
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../functions.php:782
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions.php:783
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../functions.php:895 ../functions.php:2186
+msgid "All"
+msgstr ""
+
+#: ../functions.php:1075
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1104
+msgid "&laquo;"
+msgstr ""
+
+#: ../functions.php:1105
+msgid "&raquo;"
+msgstr ""
+
+#: ../functions.php:1128
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:1133
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:1220
+msgid "Listings"
+msgstr ""
+
+#: ../functions.php:1378
+msgid "Order"
+msgstr ""
+
+#: ../functions.php:1383 ../includes/customizer/option-advance-search.php:157
+#: ../includes/customizer/option-advance-search.php:224
+#: ../includes/customizer/option-advance-search.php:291
+#: ../includes/customizer/option-agents.php:54
+#: ../includes/customizer/option-blog.php:106
+#: ../includes/customizer/option-home.php:225
+#: ../includes/customizer/option-home.php:578
+#: ../includes/customizer/option-home.php:788
+#: ../includes/customizer/option-home.php:891
+#: ../includes/customizer/option-portfolio.php:67
+#: ../includes/customizer/option-portfolio.php:158
+#: ../includes/customizer/option-properties.php:118
+#: ../includes/customizer/option-properties.php:298
+#: ../includes/customizer/option-services.php:67
+msgid "Descending"
+msgstr ""
+
+#: ../functions.php:1384 ../includes/customizer/option-advance-search.php:156
+#: ../includes/customizer/option-advance-search.php:223
+#: ../includes/customizer/option-advance-search.php:290
+#: ../includes/customizer/option-agents.php:53
+#: ../includes/customizer/option-blog.php:105
+#: ../includes/customizer/option-home.php:224
+#: ../includes/customizer/option-home.php:577
+#: ../includes/customizer/option-home.php:787
+#: ../includes/customizer/option-home.php:890
+#: ../includes/customizer/option-portfolio.php:66
+#: ../includes/customizer/option-portfolio.php:157
+#: ../includes/customizer/option-properties.php:117
+#: ../includes/customizer/option-properties.php:297
+#: ../includes/customizer/option-services.php:66
+msgid "Ascending"
+msgstr ""
+
+#: ../functions.php:1392
+msgid "Sort By"
+msgstr ""
+
+#: ../functions.php:1400 ../functions.php:1408 ../functions.php:1416
+#: ../functions.php:1420 ../includes/customizer/option-blog.php:124
+#: ../includes/customizer/option-home.php:243
+#: ../includes/customizer/option-home.php:596
+#: ../includes/customizer/option-home.php:806
+#: ../includes/customizer/option-portfolio.php:85
+#: ../includes/customizer/option-portfolio.php:176
+#: ../includes/customizer/option-properties.php:136
+#: ../includes/customizer/option-properties.php:197
+#: ../includes/customizer/option-properties.php:316
+#: ../includes/customizer/option-services.php:85
+#: ../includes/posts/post-partners.php:86
+#: ../includes/posts/post-portfolio.php:238
+#: ../includes/posts/post-properties.php:459
+#: ../includes/posts/post-services.php:188
+#: ../includes/posts/post-testimonials.php:84
+msgid "Date"
+msgstr ""
+
+#: ../functions.php:1401 ../functions.php:1406 ../functions.php:1415
+#: ../functions.php:1422 ../includes/customizer/option-home.php:249
+#: ../includes/customizer/option-properties.php:199
+#: ../includes/posts/post-properties.php:157
+#: ../includes/posts/post-properties.php:458
+msgid "Price"
+msgstr ""
+
+#: ../functions.php:1402 ../functions.php:1409 ../functions.php:1413
+#: ../functions.php:1423 ../includes/customizer/option-blog.php:127
+#: ../includes/customizer/option-home.php:246
+#: ../includes/customizer/option-home.php:599
+#: ../includes/customizer/option-home.php:809
+#: ../includes/customizer/option-portfolio.php:88
+#: ../includes/customizer/option-portfolio.php:179
+#: ../includes/customizer/option-properties.php:139
+#: ../includes/customizer/option-properties.php:200
+#: ../includes/customizer/option-properties.php:319
+#: ../includes/customizer/option-services.php:88
+msgid "Random"
+msgstr ""
+
+#: ../functions.php:1443
+msgid "Designation"
+msgstr ""
+
+#: ../functions.php:1444
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:1445
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:1446
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions.php:1447
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions.php:1448 ../template-print.php:275
+msgid "Telephone"
+msgstr ""
+
+#: ../functions.php:1516 ../functions.php:1528
+#: ../includes/customizer/option-agents.php:121
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions.php:1518
+msgid "Add your subtitle text here"
+msgstr ""
+
+#: ../functions.php:1531
+msgid "Edit your subtitle text here"
+msgstr ""
+
+#: ../functions.php:2032 ../includes/customizer/option-home.php:852
+#: ../includes/posts/post-properties.php:457 ../template-print.php:251
+msgid "Agent"
+msgstr ""
+
+#: ../functions.php:2043
+msgid "Custom Avatar"
+msgstr ""
+
+#: ../functions.php:2047
+msgid "Avatar"
+msgstr ""
+
+#: ../functions.php:2050 ../includes/lib/custom-fields.php:59
+#: ../includes/lib/custom-fields.php:66 ../includes/lib/custom-fields.php:90
+#: ../includes/lib/custom-fields.php:207 ../includes/lib/custom-fields.php:214
+#: ../includes/posts/post-portfolio.php:114
+#: ../includes/posts/post-portfolio.php:121
+#: ../includes/posts/post-properties.php:234
+#: ../includes/posts/post-properties.php:245
+#: ../includes/posts/post-services.php:131
+#: ../includes/posts/post-services.php:144
+#: ../includes/posts/post-services.php:151
+msgid "Upload"
+msgstr ""
+
+#: ../functions.php:2052
+msgid ""
+"This will override your default Gravatar or show up if you dont have a "
+"Gravatar"
+msgstr ""
+
+#: ../functions.php:2052
+msgid "Image should be 240x240 pixels"
+msgstr ""
+
+#: ../header.php:1
+msgid "Please add sliding bar widget here..."
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:4
+msgid "Advance Search"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:10
+#: ../includes/customizer/option-agents.php:10
+#: ../includes/customizer/option-background.php:10
+#: ../includes/customizer/option-blog.php:10
+#: ../includes/customizer/option-contact.php:10
+#: ../includes/customizer/option-forum.php:10
+#: ../includes/customizer/option-general.php:38
+#: ../includes/customizer/option-header.php:10
+#: ../includes/customizer/option-home.php:10
+#: ../includes/customizer/option-portfolio.php:10
+#: ../includes/customizer/option-properties.php:75
+#: ../includes/customizer/option-services.php:10
+#: ../includes/customizer/option-typography.php:10
+msgid "Main"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:20
+#: ../includes/customizer/option-blog.php:191
+#: ../includes/customizer/option-home.php:53
+#: ../includes/customizer/option-portfolio.php:213
+#: ../includes/customizer/option-properties.php:503
+#: ../includes/customizer/option-services.php:174
+msgid "Hide Advance Search?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:23
+msgid "This will hide advance search in all pages except in homepage"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:25
+#: ../includes/customizer/option-advance-search.php:40
+#: ../includes/customizer/option-advance-search.php:95
+#: ../includes/customizer/option-advance-search.php:129
+#: ../includes/customizer/option-advance-search.php:196
+#: ../includes/customizer/option-advance-search.php:263
+#: ../includes/customizer/option-advance-search.php:330
+#: ../includes/customizer/option-advance-search.php:378
+#: ../includes/customizer/option-advance-search.php:426
+#: ../includes/customizer/option-advance-search.php:474
+#: ../includes/customizer/option-agents.php:25
+#: ../includes/customizer/option-blog.php:25
+#: ../includes/customizer/option-blog.php:90
+#: ../includes/customizer/option-blog.php:143
+#: ../includes/customizer/option-blog.php:158
+#: ../includes/customizer/option-blog.php:173
+#: ../includes/customizer/option-blog.php:196
+#: ../includes/customizer/option-contact.php:108
+#: ../includes/customizer/option-footer.php:18
+#: ../includes/customizer/option-general.php:53
+#: ../includes/customizer/option-general.php:68
+#: ../includes/customizer/option-header.php:24
+#: ../includes/customizer/option-header.php:39
+#: ../includes/customizer/option-header.php:89
+#: ../includes/customizer/option-header.php:111
+#: ../includes/customizer/option-header.php:163
+#: ../includes/customizer/option-header.php:209
+#: ../includes/customizer/option-header.php:340
+#: ../includes/customizer/option-home.php:58
+#: ../includes/customizer/option-home.php:73
+#: ../includes/customizer/option-home.php:88
+#: ../includes/customizer/option-home.php:164
+#: ../includes/customizer/option-home.php:283
+#: ../includes/customizer/option-home.php:388
+#: ../includes/customizer/option-home.php:467
+#: ../includes/customizer/option-home.php:538
+#: ../includes/customizer/option-home.php:679
+#: ../includes/customizer/option-home.php:748
+#: ../includes/customizer/option-home.php:936
+#: ../includes/customizer/option-portfolio.php:37
+#: ../includes/customizer/option-portfolio.php:142
+#: ../includes/customizer/option-portfolio.php:195
+#: ../includes/customizer/option-portfolio.php:218
+#: ../includes/customizer/option-properties.php:90
+#: ../includes/customizer/option-properties.php:156
+#: ../includes/customizer/option-properties.php:266
+#: ../includes/customizer/option-properties.php:282
+#: ../includes/customizer/option-properties.php:347
+#: ../includes/customizer/option-properties.php:362
+#: ../includes/customizer/option-properties.php:377
+#: ../includes/customizer/option-properties.php:404
+#: ../includes/customizer/option-properties.php:431
+#: ../includes/customizer/option-properties.php:470
+#: ../includes/customizer/option-properties.php:485
+#: ../includes/customizer/option-properties.php:508
+#: ../includes/customizer/option-services.php:37
+#: ../includes/customizer/option-services.php:179
+msgid "Yes"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:26
+#: ../includes/customizer/option-advance-search.php:41
+#: ../includes/customizer/option-advance-search.php:96
+#: ../includes/customizer/option-advance-search.php:130
+#: ../includes/customizer/option-advance-search.php:197
+#: ../includes/customizer/option-advance-search.php:264
+#: ../includes/customizer/option-advance-search.php:331
+#: ../includes/customizer/option-advance-search.php:379
+#: ../includes/customizer/option-advance-search.php:427
+#: ../includes/customizer/option-advance-search.php:475
+#: ../includes/customizer/option-agents.php:26
+#: ../includes/customizer/option-blog.php:26
+#: ../includes/customizer/option-blog.php:91
+#: ../includes/customizer/option-blog.php:144
+#: ../includes/customizer/option-blog.php:159
+#: ../includes/customizer/option-blog.php:174
+#: ../includes/customizer/option-blog.php:197
+#: ../includes/customizer/option-contact.php:109
+#: ../includes/customizer/option-footer.php:19
+#: ../includes/customizer/option-general.php:54
+#: ../includes/customizer/option-general.php:69
+#: ../includes/customizer/option-header.php:25
+#: ../includes/customizer/option-header.php:40
+#: ../includes/customizer/option-header.php:90
+#: ../includes/customizer/option-header.php:112
+#: ../includes/customizer/option-header.php:164
+#: ../includes/customizer/option-header.php:210
+#: ../includes/customizer/option-header.php:341
+#: ../includes/customizer/option-home.php:59
+#: ../includes/customizer/option-home.php:74
+#: ../includes/customizer/option-home.php:89
+#: ../includes/customizer/option-home.php:165
+#: ../includes/customizer/option-home.php:284
+#: ../includes/customizer/option-home.php:389
+#: ../includes/customizer/option-home.php:468
+#: ../includes/customizer/option-home.php:539
+#: ../includes/customizer/option-home.php:680
+#: ../includes/customizer/option-home.php:749
+#: ../includes/customizer/option-home.php:937
+#: ../includes/customizer/option-portfolio.php:38
+#: ../includes/customizer/option-portfolio.php:143
+#: ../includes/customizer/option-portfolio.php:196
+#: ../includes/customizer/option-portfolio.php:219
+#: ../includes/customizer/option-properties.php:91
+#: ../includes/customizer/option-properties.php:157
+#: ../includes/customizer/option-properties.php:267
+#: ../includes/customizer/option-properties.php:283
+#: ../includes/customizer/option-properties.php:348
+#: ../includes/customizer/option-properties.php:363
+#: ../includes/customizer/option-properties.php:378
+#: ../includes/customizer/option-properties.php:405
+#: ../includes/customizer/option-properties.php:432
+#: ../includes/customizer/option-properties.php:471
+#: ../includes/customizer/option-properties.php:486
+#: ../includes/customizer/option-properties.php:509
+#: ../includes/customizer/option-services.php:38
+#: ../includes/customizer/option-services.php:180
+msgid "No"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:36
+#: ../includes/customizer/option-contact.php:104
+#: ../includes/customizer/option-properties.php:85
+#: ../includes/customizer/option-properties.php:358
+msgid "Hide Google Map?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:51
+msgid "Select your Advance Search Layout"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:55
+#: ../includes/customizer/option-agents.php:136
+#: ../includes/customizer/option-blog.php:74
+#: ../includes/customizer/option-blog.php:212
+#: ../includes/customizer/option-footer.php:33
+#: ../includes/customizer/option-header.php:54
+#: ../includes/customizer/option-home.php:179
+#: ../includes/customizer/option-portfolio.php:125
+#: ../includes/customizer/option-portfolio.php:234
+#: ../includes/customizer/option-properties.php:250
+#: ../includes/customizer/option-properties.php:524
+#: ../includes/customizer/option-services.php:155
+#: ../includes/customizer/option-services.php:195
+#: ../includes/customizer/option-typography.php:24
+msgid "Default"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:56
+#: ../includes/customizer/option-agents.php:137
+#: ../includes/customizer/option-blog.php:75
+#: ../includes/customizer/option-blog.php:213
+#: ../includes/customizer/option-portfolio.php:126
+#: ../includes/customizer/option-portfolio.php:235
+#: ../includes/customizer/option-properties.php:251
+#: ../includes/customizer/option-properties.php:525
+#: ../includes/customizer/option-services.php:156
+#: ../includes/customizer/option-services.php:196
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:57
+#: ../includes/customizer/option-properties.php:526
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:58
+#: ../includes/customizer/option-blog.php:217
+#: ../includes/customizer/option-properties.php:527
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:59
+#: ../includes/customizer/option-blog.php:218
+#: ../includes/customizer/option-properties.php:528
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:60
+#: ../includes/customizer/option-blog.php:219
+#: ../includes/customizer/option-properties.php:529
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:61
+#: ../includes/customizer/option-properties.php:530
+msgid "Grid Sidebar"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:62
+#: ../includes/customizer/option-blog.php:216
+#: ../includes/customizer/option-properties.php:531
+msgid "Grid Left Sidebar"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:73
+msgid "Search Button label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:81
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:152
+#: ../includes/posts/post-properties.php:453 ../template-print.php:119
+msgid "Property ID"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:91
+msgid "Hide Property ID Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:107
+msgid "Property ID Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:115
+#: ../includes/posts/post-properties.php:394
+#: ../includes/posts/post-properties.php:395 ../template-sitemap.php:177
+msgid "Property Location"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:125
+msgid "Hide Location Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:141
+msgid "Property Location Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:152
+#: ../includes/customizer/option-advance-search.php:219
+#: ../includes/customizer/option-advance-search.php:286
+#: ../includes/customizer/option-agents.php:49
+#: ../includes/customizer/option-home.php:220
+#: ../includes/customizer/option-home.php:573
+#: ../includes/customizer/option-home.php:783
+#: ../includes/customizer/option-home.php:886
+#: ../includes/customizer/option-portfolio.php:62
+#: ../includes/customizer/option-properties.php:113
+#: ../includes/customizer/option-services.php:62
+msgid "Ordering"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:167
+#: ../includes/customizer/option-advance-search.php:234
+#: ../includes/customizer/option-advance-search.php:301
+#: ../includes/customizer/option-agents.php:64
+#: ../includes/customizer/option-home.php:235
+#: ../includes/customizer/option-home.php:588
+#: ../includes/customizer/option-home.php:798
+#: ../includes/customizer/option-home.php:901
+#: ../includes/customizer/option-portfolio.php:77
+#: ../includes/customizer/option-properties.php:128
+#: ../includes/customizer/option-services.php:77
+msgid "Sorting"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:171
+#: ../includes/customizer/option-advance-search.php:238
+#: ../includes/customizer/option-advance-search.php:305
+#: ../includes/customizer/option-agents.php:68
+#: ../includes/customizer/option-blog.php:120
+#: ../includes/customizer/option-home.php:239
+#: ../includes/customizer/option-home.php:592
+#: ../includes/customizer/option-home.php:802
+#: ../includes/customizer/option-home.php:905
+#: ../includes/customizer/option-portfolio.php:81
+#: ../includes/customizer/option-portfolio.php:172
+#: ../includes/customizer/option-properties.php:132
+#: ../includes/customizer/option-properties.php:312
+#: ../includes/customizer/option-services.php:81
+#: ../includes/widgets/widget-flickr.php:89
+#: ../includes/widgets/widget-twitter.php:94
+msgid "ID"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:172
+#: ../includes/customizer/option-advance-search.php:239
+#: ../includes/customizer/option-advance-search.php:306
+msgid "Count"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:174
+#: ../includes/customizer/option-advance-search.php:241
+#: ../includes/customizer/option-advance-search.php:308
+msgid "Slug"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:175
+#: ../includes/customizer/option-advance-search.php:242
+#: ../includes/customizer/option-advance-search.php:309
+#: ../includes/customizer/option-properties.php:40
+msgid "None"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:182
+#: ../includes/posts/post-properties.php:370
+#: ../includes/posts/post-properties.php:371 ../template-sitemap.php:146
+msgid "Property Status"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:192
+msgid "Hide Status Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:208
+msgid "Property Status Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:249
+#: ../includes/posts/post-properties.php:346
+#: ../includes/posts/post-properties.php:347 ../template-sitemap.php:115
+msgid "Property Type"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:259
+msgid "Hide Type Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:275
+msgid "Property Type Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:316
+msgid "Property Bedrooms"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:326
+msgid "Hide Bedrooms Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:342
+msgid "Property Bedroom Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:355
+msgid "Selection of how many bedrooms"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:357
+#: ../includes/customizer/option-advance-search.php:405
+msgid "Example of data to be added is something like this 1, 2, 3, 4"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:364
+msgid "Property Bathrooms"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:374
+msgid "Hide Bathroom Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:390
+msgid "Property Bathroom Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:403
+msgid "Selection of how many bathrooms"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:412
+msgid "Property Minimum Price"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:422
+msgid "Hide Minimum Price Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:438
+msgid "Property Minimum Price Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:451
+msgid "Property Minimum Price Range"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:453
+msgid ""
+"Example of data to be added is something like this 5000, 10000, 50000, 100000"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:460
+msgid "Property Maximum Price"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:470
+msgid "Hide Maximum Price Field?"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:486
+msgid "Property Maximum Price Label"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:499
+msgid "Property Maximum Price Range"
+msgstr ""
+
+#: ../includes/customizer/option-advance-search.php:501
+msgid "Example of data to be added is something like this 10000, 50000, 100000"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:4
+#: ../includes/lib/custom-functions.php:1 ../template-sitemap.php:227
+msgid "Agents"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:20
+msgid "Hide Agents?"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:23
+msgid "Note: this will hide all agents in your site including widgets."
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:37
+msgid "Number of agents per page"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:38
+msgid "This will work on agents page only."
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:71
+#: ../includes/customizer/option-home.php:908
+#: ../includes/lib/custom-functions.php:1
+msgid "Login"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:72
+#: ../includes/customizer/option-home.php:909
+msgid "Nicename"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:74
+#: ../includes/customizer/option-home.php:911
+msgid "URL"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:75
+#: ../includes/customizer/option-home.php:912
+msgid "Registered"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:76
+#: ../includes/customizer/option-home.php:913
+msgid "Post Count"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:77
+#: ../includes/customizer/option-home.php:914
+msgid "Meta Value"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:88
+msgid "Agent Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:96
+msgid "Profile Page"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:98
+msgid "Note: this setting is only for agent profile page."
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:108
+msgid "Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:132
+msgid "Select Layout"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:138
+#: ../includes/customizer/option-blog.php:76
+#: ../includes/customizer/option-blog.php:220
+#: ../includes/customizer/option-properties.php:252
+#: ../includes/customizer/option-services.php:157
+#: ../includes/customizer/option-services.php:197
+msgid "Fullwidth"
+msgstr ""
+
+#: ../includes/customizer/option-agents.php:149
+msgid "List Header title"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:4
+msgid "Background"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:20
+msgid "Select Background Type"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:24
+msgid "Color"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:25
+msgid "Pattern"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:26
+msgid "Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:41
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:42
+msgid "Fill this field if you select color for your background type"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:54
+msgid "Select your theme background patterns"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:56
+msgid "Fill this field if you select pattern for your background type"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:59
+msgid "Select Pattern"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:143
+#: ../includes/customizer/option-home.php:346
+#: ../includes/customizer/option-home.php:706
+#: ../includes/customizer/option-home.php:825
+#: ../includes/customizer/option-home.php:975
+#: ../includes/lib/custom-fields.php:64 ../includes/lib/custom-fields.php:212
+#: ../includes/posts/post-portfolio.php:119
+#: ../includes/posts/post-properties.php:243
+#: ../includes/posts/post-services.php:149
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:144
+msgid "Fill this field if you select image for your background type"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:153
+#: ../includes/customizer/option-header.php:325
+#: ../includes/lib/custom-fields.php:26 ../includes/lib/custom-fields.php:169
+#: ../includes/posts/post-portfolio.php:80
+#: ../includes/posts/post-properties.php:118
+#: ../includes/posts/post-services.php:85
+msgid "Images"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:155
+msgid "Add your background images here"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:168
+#: ../includes/customizer/option-header.php:389
+msgid "Archive Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:170
+msgid "Upload archive background image for archive page"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:185
+#: ../includes/customizer/option-header.php:406
+msgid "Taxonomy Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:187
+msgid "Upload taxonomy background image for taxonomy page"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:202
+#: ../includes/customizer/option-header.php:423
+msgid "Agent Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:204
+msgid "Upload agent background image for agent single page"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:219
+#: ../includes/customizer/option-header.php:440
+msgid "Search Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:221
+msgid "Upload search background image for search page"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:236
+#: ../includes/customizer/option-header.php:457
+msgid "Attachment Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:238
+msgid "Upload attachment background image for attachment page"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:253
+#: ../includes/customizer/option-header.php:474
+msgid "Page not found Image"
+msgstr ""
+
+#: ../includes/customizer/option-background.php:255
+msgid "Upload 404 not found background image for 404 page"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:4
+#: ../includes/customizer/option-home.php:197
+#: ../includes/customizer/option-home.php:607
+msgid "Blog"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:20
+msgid "Display Blog Excerpt?"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:23
+msgid ""
+"This will show all excerpt for blog templates except on blog timeline where "
+"excerpt always shown."
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:38
+#: ../includes/customizer/option-portfolio.php:50
+#: ../includes/customizer/option-properties.php:169
+#: ../includes/customizer/option-services.php:50
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:40
+msgid ""
+"This will control the number of words in the excerpts for blog page "
+"templates and blog archive pages. Default value is 30"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:51
+msgid "Blog Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:59
+#: ../includes/customizer/option-portfolio.php:110
+#: ../includes/customizer/option-properties.php:235
+#: ../includes/customizer/option-services.php:140
+msgid "Single Post"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:69
+#: ../includes/customizer/option-portfolio.php:120
+#: ../includes/customizer/option-properties.php:245
+#: ../includes/customizer/option-services.php:150
+msgid "Layout"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:72
+msgid "Select your desire layout for blog single page"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:86
+#: ../includes/customizer/option-properties.php:262
+msgid "Exclude Featured Image?"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:101
+#: ../includes/customizer/option-portfolio.php:153
+#: ../includes/customizer/option-properties.php:293
+msgid "Attachment Ordering"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:116
+#: ../includes/customizer/option-portfolio.php:168
+#: ../includes/customizer/option-properties.php:308
+msgid "Attachment Sorting"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:122
+#: ../includes/customizer/option-home.php:241
+#: ../includes/customizer/option-home.php:594
+#: ../includes/customizer/option-home.php:804
+#: ../includes/customizer/option-portfolio.php:83
+#: ../includes/customizer/option-portfolio.php:174
+#: ../includes/customizer/option-properties.php:134
+#: ../includes/customizer/option-properties.php:314
+#: ../includes/customizer/option-services.php:83
+#: ../includes/posts/post-services.php:184
+#: ../includes/widgets/widget-advance-search.php:49
+#: ../includes/widgets/widget-agent.php:99
+#: ../includes/widgets/widget-contact.php:108
+#: ../includes/widgets/widget-dribbble.php:89
+#: ../includes/widgets/widget-featured-properties.php:110
+#: ../includes/widgets/widget-flickr.php:85
+#: ../includes/widgets/widget-follow-us.php:88
+#: ../includes/widgets/widget-gmap.php:106
+#: ../includes/widgets/widget-popular.php:88
+#: ../includes/widgets/widget-portfolio.php:87
+#: ../includes/widgets/widget-search-amenities.php:65
+#: ../includes/widgets/widget-search-location.php:65
+#: ../includes/widgets/widget-search-status.php:65
+#: ../includes/widgets/widget-search-type.php:65
+#: ../includes/widgets/widget-testimonials.php:83
+#: ../includes/widgets/widget-twitter.php:90
+#: ../includes/widgets/widget-video.php:56
+#: ../includes/widgets/widget-working-hours.php:126
+msgid "Title"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:125
+#: ../includes/customizer/option-home.php:244
+#: ../includes/customizer/option-home.php:597
+#: ../includes/customizer/option-home.php:807
+#: ../includes/customizer/option-portfolio.php:86
+#: ../includes/customizer/option-portfolio.php:177
+#: ../includes/customizer/option-properties.php:137
+#: ../includes/customizer/option-properties.php:317
+#: ../includes/customizer/option-services.php:86
+msgid "Modified"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:126
+#: ../includes/customizer/option-home.php:245
+#: ../includes/customizer/option-home.php:444
+#: ../includes/customizer/option-home.php:598
+#: ../includes/customizer/option-home.php:808
+#: ../includes/customizer/option-portfolio.php:87
+#: ../includes/customizer/option-portfolio.php:178
+#: ../includes/customizer/option-properties.php:138
+#: ../includes/customizer/option-properties.php:318
+#: ../includes/customizer/option-services.php:87
+#: ../includes/customizer/option-services.php:119
+msgid "Parent"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:128
+#: ../includes/customizer/option-home.php:247
+#: ../includes/customizer/option-home.php:600
+#: ../includes/customizer/option-home.php:810
+#: ../includes/customizer/option-portfolio.php:89
+#: ../includes/customizer/option-portfolio.php:180
+#: ../includes/customizer/option-properties.php:140
+#: ../includes/customizer/option-properties.php:320
+#: ../includes/customizer/option-services.php:89
+msgid "Comment Count"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:129
+#: ../includes/customizer/option-home.php:248
+#: ../includes/customizer/option-home.php:601
+#: ../includes/customizer/option-home.php:811
+#: ../includes/customizer/option-portfolio.php:90
+#: ../includes/customizer/option-portfolio.php:181
+#: ../includes/customizer/option-properties.php:141
+#: ../includes/customizer/option-properties.php:321
+#: ../includes/customizer/option-services.php:90
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:139
+msgid "Hide Author Details?"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:154
+#: ../includes/customizer/option-properties.php:466
+msgid "Hide Comments?"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:169
+#: ../includes/customizer/option-portfolio.php:191
+#: ../includes/customizer/option-properties.php:481
+msgid "Hide Previous and Next Buttons?"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:181
+#: ../includes/customizer/option-portfolio.php:203
+#: ../includes/customizer/option-properties.php:493
+#: ../includes/customizer/option-services.php:164
+msgid "Archive"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:194
+msgid ""
+"This will hide advance search in archive, category and taxonomy pages for "
+"blog list."
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:207
+#: ../includes/customizer/option-services.php:190
+msgid "Archive Layout"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:210
+msgid "Select your desire layout for blog archive page"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:214
+msgid "List Alternate"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:215
+msgid "Grid"
+msgstr ""
+
+#: ../includes/customizer/option-blog.php:221
+msgid "Timeline"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:4
+msgid "Contact"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:45
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:57
+#: ../includes/posts/post-properties.php:220
+#: ../includes/posts/post-properties.php:452
+#: ../includes/widgets/widget-contact.php:112
+#: ../template-contact-alternate.php:30 ../template-contact-alternate2.php:40
+#: ../template-contact.php:36
+msgid "Address"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:69
+#: ../includes/lib/custom-functions.php:1 ../template-contact-alternate.php:33
+#: ../template-contact-alternate2.php:43 ../template-contact.php:39
+msgid "Working Hours"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:84
+msgid "Top Background Image"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:86
+msgid "Upload top background image for contact alternate page"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:94
+#: ../includes/customizer/option-general.php:93
+#: ../includes/customizer/option-home.php:29
+#: ../includes/posts/post-properties.php:124
+msgid "Google Map"
+msgstr "خريطة جوجل"
+
+#: ../includes/customizer/option-contact.php:121
+#: ../includes/customizer/option-general.php:120
+msgid "Map Latitude"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:134
+#: ../includes/customizer/option-general.php:133
+msgid "Map Longitude"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:147
+#: ../includes/customizer/option-general.php:146
+msgid "Map Zoom Level"
+msgstr ""
+
+#: ../includes/customizer/option-contact.php:149
+#: ../includes/customizer/option-general.php:148
+msgid "Add your value for map zoom level from 1-20"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:4
+msgid "Footer"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:14
+msgid "Hide Footer Widgets?"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:29
+msgid "Footer Layout"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:34
+msgid "Layout 2"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:35
+msgid "Layout 3"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:36
+msgid "Layout 4"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:37
+msgid "Layout 5"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:38
+msgid "Layout 6"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:49
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:61
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../includes/customizer/option-footer.php:63
+msgid "Paste your google analytics code here from google"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:21
+msgid "Forum Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:33
+msgid "Forum Subtitle"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:41
+msgid "Header Images"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:55
+#: ../includes/customizer/option-forum.php:164
+msgid "Forum Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:57
+msgid "Upload default header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:72
+#: ../includes/customizer/option-forum.php:181
+msgid "Single Forum Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:74
+msgid "Upload single header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:89
+#: ../includes/customizer/option-forum.php:198
+msgid "Single Topic Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:91
+msgid "Upload single topic header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:106
+#: ../includes/customizer/option-forum.php:215
+msgid "Topic Edit Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:108
+msgid "Upload topic edit header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:123
+#: ../includes/customizer/option-forum.php:232
+msgid "Forum Search Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:125
+msgid "Upload forum search header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:140
+#: ../includes/customizer/option-forum.php:249
+msgid "User Profile Image"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:142
+msgid "Upload user profile header image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:150
+msgid "Background Images"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:166
+msgid "Upload default background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:183
+msgid "Upload single background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:200
+msgid "Upload single topic background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:217
+msgid "Upload topic edit background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:234
+msgid "Upload forum search background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-forum.php:251
+msgid "Upload user profile background image for forum page"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:9
+msgid "Logo"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:22
+msgid "Retina Logo"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:25
+msgid ""
+"Note: you need to upload image with @2x in your filename like this image@2x."
+"jpg"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:32
+msgid "General"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:48
+msgid "Disable Responsive Layout?"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:49
+msgid "Note: It is not recommended to disable responsive."
+msgstr ""
+
+#: ../includes/customizer/option-general.php:64
+msgid "Disable Preloader?"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:83
+msgid "Preloader Icon"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:84
+msgid ""
+"Upload your preloader icon use when your site is still loading, please "
+"upload only .gif extension"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:95
+msgid ""
+"Please use this site <a href=\"http://www.latlong.net/\" target=\"_blank"
+"\">latlong.net</a> to get your latitude and longitude values."
+msgstr ""
+
+#: ../includes/customizer/option-general.php:106
+msgid "Google Map API Key"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:108
+msgid ""
+"Google Maps now required all new sites to use an API Key as of June 22, 2016 "
+"which you can get it for free <a href=\"https://console.developers.google."
+"com/apis/library?project=massive-oasis-135623\" target=\"_blank\">here</a>. "
+"All existing websites still recommended to add it."
+msgstr ""
+
+#: ../includes/customizer/option-general.php:162
+msgid "Map Pin Icon"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:163
+msgid "Upload your google map pin icon"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:179
+msgid "Map Marker Clusterer Icon"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:180
+msgid "Upload your google map marker clusterer icon"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:189
+msgid "Styles"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:200
+msgid "Select your theme layout for your website"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:204
+msgid "Fullwidth Theme Layout"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:205
+msgid "Boxed Type Theme Layout"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:206
+msgid "Boxed Left Theme Layout"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:217
+msgid "Select your pagination type"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:221
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:222
+msgid "Next Previous Link"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:230
+msgid "Add your custom CSS stylesheet code here"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:235
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/customizer/option-general.php:237
+msgid ""
+"If you need to change major custom CSS code for this theme then you can use  "
+"our child theme css file in child theme folder"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:4
+msgid "Header"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:20
+msgid "Enable Sticky Header?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:35
+msgid "Enable Sliding Bar at the top?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:50
+msgid "Select Header Layout"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:55
+msgid "Header 2"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:56
+msgid "Header 3"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:57
+msgid "Header 4"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:58
+msgid "Header 5"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:59
+msgid "Header 6"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:60
+msgid "Header 7"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:61
+msgid "Header 8"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:62
+msgid "Header 9"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:63
+msgid "Header 10"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:74
+msgid "Call us label"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:85
+msgid "Hide Page Title and Subtitle?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:97
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:107
+msgid "Hide Login?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:123
+msgid "Login label"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:135
+msgid "Custom Login Link"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:137
+msgid "Add your custom login link here, do not forget adding http://"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:148
+msgid "Logout label"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:159
+msgid "Hide Register?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:174
+msgid "Register Label"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:186
+msgid "Custom Register Link"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:188
+msgid "Add your custom register link here, do not forget adding http://"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:195
+msgid "Social Media"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:205
+msgid "Use Social Media Brand Color?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:221
+msgid "RSS Feed Link"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:233
+msgid "Twitter ID"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:245
+msgid "Facebook ID"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:257
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:269
+msgid "Pinterest ID"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:281
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:293
+msgid "Dribbble ID"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:305
+msgid "Instagram ID"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:317
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:327
+msgid "Add your header images here, images should have 300px height"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:336
+msgid "Hide Header Image?"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:356
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:372
+msgid "Default Image"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:374
+msgid "Upload default header image for entire site"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:391
+msgid "Upload archive header image for archive page"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:408
+msgid "Upload taxonomy header image for taxonomy page"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:425
+msgid "Upload header image for agent single page"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:442
+msgid "Upload search header image for search page"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:459
+msgid "Upload attachment header image for attachment page"
+msgstr ""
+
+#: ../includes/customizer/option-header.php:476
+msgid "Upload 404 not found header image for 404 page"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:4
+msgid "Homepage"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:20
+msgid "First Top Content"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:23
+msgid "Select a top element content for homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:25
+#: ../includes/customizer/option-home.php:149
+#: ../includes/lib/custom-fields.php:35
+#: ../includes/posts/post-portfolio.php:83
+#: ../includes/posts/post-properties.php:121
+msgid "Slider"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:26
+msgid "Thumb Slider"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:27
+#: ../includes/lib/custom-fields.php:119
+#: ../includes/posts/post-portfolio.php:134
+#: ../includes/posts/post-properties.php:268
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:28
+#: ../includes/customizer/option-home.php:96
+#: ../includes/customizer/option-home.php:122
+msgid "Static Image"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:30
+#: ../includes/lib/custom-fields.php:29 ../includes/lib/custom-fields.php:88
+msgid "Video"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:41
+msgid "Video Embedded Code"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:42
+msgid ""
+"Note: You can only use this if you select video in your first top content or "
+"use the homepage video page template."
+msgstr ""
+
+#: ../includes/customizer/option-home.php:56
+msgid "This will hide advance search box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:69
+msgid "Hide 2 Columns below?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:84
+msgid "Hide 3 Columns below?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:107
+#: ../includes/customizer/option-home.php:400
+msgid "Description"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:123
+msgid "Fill this field if you select static image for your homepage"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:140
+#: ../includes/customizer/option-home.php:364
+#: ../includes/customizer/option-home.php:724
+#: ../includes/customizer/option-home.php:843
+#: ../includes/customizer/option-home.php:993
+msgid "Overlay Color"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:159
+msgid "Hide slider details?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:162
+msgid "This will hide slider details in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:175
+msgid "Description Style"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:180
+msgid "Right"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:181
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:191
+msgid "Display List"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:195
+#: ../includes/customizer/option-home.php:452
+#: ../includes/customizer/option-properties.php:4
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:16
+#: ../includes/posts/post-properties.php:18
+#: ../includes/posts/post-properties.php:19
+#: ../includes/widgets/widget-agent.php:70
+#: ../template-agents-grid-left-sidebar.php:86
+#: ../template-agents-grid-right-sidebar.php:86
+#: ../template-agents-left-sidebar.php:157
+#: ../template-agents-list-fullwidth.php:155 ../template-agents.php:158
+#: ../template-sitemap.php:210
+msgid "Properties"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:196
+msgid "Featured Properties"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:198
+#: ../includes/customizer/option-home.php:523
+#: ../includes/customizer/option-portfolio.php:4
+#: ../includes/posts/post-portfolio.php:16
+#: ../includes/posts/post-portfolio.php:17
+#: ../includes/posts/post-portfolio.php:18
+#: ../includes/posts/post-portfolio.php:19
+msgid "Portfolio"
+msgstr "محفظة"
+
+#: ../includes/customizer/option-home.php:209
+msgid "Number of item slider to be display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:260
+msgid "Slider Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:268
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:278
+msgid "Hide Welcome Text?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:281
+msgid "This will hide welcome box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:295
+msgid "Welcome Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:307
+msgid "Welcome Description"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:319
+msgid "Welcome Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:331
+msgid "Welcome Button Link"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:348
+msgid "Upload background image for welcome in homepage"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:373
+msgid "Call to Action Text"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:383
+msgid "Hide Call to Action Text?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:386
+msgid "This will hide call to action box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:401
+msgid "Add a brief description for your call to action."
+msgstr ""
+
+#: ../includes/customizer/option-home.php:413
+#: ../includes/customizer/option-other-pages.php:88
+msgid "Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:425
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:426
+msgid "Do not forget to add http:// if you added a link"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:437
+#: ../includes/customizer/option-services.php:112
+msgid "Link Target"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:440
+msgid "Select your call to action link target option."
+msgstr ""
+
+#: ../includes/customizer/option-home.php:442
+#: ../includes/customizer/option-services.php:117
+msgid "Self"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:443
+#: ../includes/customizer/option-services.php:118
+msgid "Blank"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:445
+#: ../includes/customizer/option-services.php:120
+msgid "Top"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:462
+msgid "Hide Properties?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:465
+msgid "This will hide property box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:479
+msgid "Number of properties display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:491
+msgid "Property header title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:503
+msgid "Number of featured properties display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:515
+msgid "Property header featured title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:533
+msgid "Hide Portfolio?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:536
+msgid "This will hide portfolio box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:550
+msgid "Number of portfolio display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:562
+msgid "Portfolio header title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:618
+msgid "Number of blog display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:630
+msgid "Blog header title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:641
+msgid "Blog Category"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:656
+#: ../includes/lib/custom-functions.php:1
+msgid "Choose a category"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:664
+#: ../includes/customizer/option-services.php:4
+#: ../includes/posts/post-services.php:16
+#: ../includes/posts/post-services.php:18
+#: ../includes/posts/post-services.php:19 ../template-sitemap.php:249
+msgid "Services"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:674
+msgid "Hide Services?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:677
+msgid "This will hide services box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:691
+msgid "Number of services display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:708
+msgid "Upload background image for services in homepage"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:733
+#: ../includes/posts/post-partners.php:10
+#: ../includes/posts/post-partners.php:12
+#: ../includes/posts/post-partners.php:13
+msgid "Partners"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:743
+msgid "Hide Partners?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:746
+msgid "This will hide partners box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:760
+msgid "Number of partners display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:772
+msgid "Partners header title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:827
+msgid "Upload background image for partners in homepage"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:863
+msgid "Number of agent display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:875
+msgid "Agent Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:921
+#: ../includes/posts/post-testimonials.php:10
+#: ../includes/posts/post-testimonials.php:12
+#: ../includes/posts/post-testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:931
+msgid "Hide Testimonials?"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:934
+msgid "This will hide testimonials box in homepage only"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:948
+msgid "Number of testimonials display"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:960
+msgid "Testimonials Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-home.php:977
+msgid "Upload background image for testimonials in homepage"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:4
+msgid "Other Pages"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:10
+msgid "About Page"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:21
+msgid "About Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:40
+msgid "404 Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:52
+msgid "404 Subtitle"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:64
+msgid "Content Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:76
+msgid "Content Subtitle"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:96
+msgid "Search Page"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:107
+msgid "Search Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-other-pages.php:119
+msgid "Search Subtitle"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:21
+msgid "Number of portfolio items per page"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:32
+#: ../includes/customizer/option-properties.php:151
+#: ../includes/customizer/option-services.php:32
+msgid "Hide Excerpt?"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:35
+msgid "This will hide portfolio excerpt"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:52
+msgid ""
+"This will control the number of words in the excerpts for portfolio page "
+"templates, portfolio archive pages and portfolio in homepage. Default value "
+"is 30"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:101
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:103
+msgid ""
+"The slug name cannot be the same name as your portfolio page or else the "
+"layout breaks. This option changes the permalink when you use the permalink "
+"type as %postname%. Make sure to regenerate permalinks structure."
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:123
+msgid "Select your desire layout for portfolio single page"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:127
+#: ../includes/customizer/option-portfolio.php:236
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:137
+msgid "Use static image for portfolio?"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:140
+msgid ""
+"Note: If you select yes it will display portfolio images without a slider"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:216
+msgid ""
+"This will hide advance search in archive, category and taxonomy pages for "
+"portfolio list."
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:229
+#: ../includes/customizer/option-properties.php:519
+msgid "Archive and Taxonomy Layout"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:232
+#: ../includes/customizer/option-properties.php:522
+msgid "Select your desire layout for taxonomy and archive page"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:247
+#: ../includes/customizer/option-properties.php:542
+#: ../includes/customizer/option-services.php:209
+msgid "Archive Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:248
+#: ../includes/customizer/option-properties.php:543
+#: ../includes/customizer/option-services.php:210
+msgid "Add your archive and taxonomy header title here"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:260
+#: ../includes/customizer/option-properties.php:555
+#: ../includes/customizer/option-services.php:222
+msgid "Archive Subtitle"
+msgstr ""
+
+#: ../includes/customizer/option-portfolio.php:261
+#: ../includes/customizer/option-properties.php:556
+#: ../includes/customizer/option-services.php:223
+msgid "Add your archive and taxonomy subtitle here"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:10
+msgid "Currency"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:21
+msgid "Currency Sign"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:32
+msgid "Price Format"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:36
+msgid "Comma"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:37
+msgid "Dot"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:38
+msgid "Europe"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:39
+msgid "Brazil"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:50
+msgid "Position of currency sign"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:54
+msgid "Before"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:55
+msgid "After"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:66
+msgid "Decimal"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:67
+msgid "Enter how many decimal number you want to add for your property price"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:88
+msgid "This will hide google map in property page only"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:102
+msgid "Number of property item per page"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:154
+msgid "This will hide property excerpt"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:171
+msgid ""
+"This will control the number of words in the excerpts for property page "
+"templates, property archive pages and property in homepage. Default value is "
+"30"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:182
+msgid "Property Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:193
+msgid "Filter Sorting"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:210
+msgid "Preferred Size?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:214
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:164 ../loop-property-4cols.php:73
+#: ../single-homeland_properties.php:238 ../template-print.php:140
+msgid "Lot Area"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:215
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:170 ../loop-property-4cols.php:65
+#: ../single-homeland_properties.php:242 ../template-print.php:147
+msgid "Floor Area"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:226
+msgid "Property Slug"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:228
+msgid ""
+"The slug name cannot be the same name as your property page or else the "
+"layout breaks. This option changes the permalink when you use the permalink "
+"type as %postname%. Make sure to regenerate permalinks structure."
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:248
+msgid "Select your desire layout for property single page"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:277
+msgid "Use static image for properties?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:280
+msgid ""
+"Note: If you select yes it will display property images without a slider"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:332
+msgid "Amenities Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:343
+msgid "Clickable Amenities List?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:373
+msgid "Display Map Street View?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:389
+msgid "Map Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:400
+msgid "Hide Agent Details?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:416
+msgid "Agent Form Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:427
+msgid "Hide Other Properties?"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:443
+msgid "Number of other properties display"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:455
+msgid "Other Property Header Title"
+msgstr ""
+
+#: ../includes/customizer/option-properties.php:506
+msgid ""
+"This will hide advance search in archive, category and taxonomy pages for "
+"property list."
+msgstr ""
+
+#: ../includes/customizer/option-services.php:21
+msgid "Number of services items per page"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:35
+msgid "This will hide services excerpt"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:52
+msgid ""
+"This will control the number of words in the excerpts for services page "
+"templates, services archive pages and services in homepage. Default value is "
+"30"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:101
+msgid "Services Button Label"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:115
+msgid "Select your services link target option for services custom link"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:131
+msgid "Services Slug"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:133
+msgid ""
+"The slug name cannot be the same name as your services page or else the "
+"layout breaks. This option changes the permalink when you use the permalink "
+"type as %postname%. Make sure to regenerate permalinks structure."
+msgstr ""
+
+#: ../includes/customizer/option-services.php:153
+msgid "Select your desire layout for services single page"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:177
+msgid "This will hide advance search in archive page for services list."
+msgstr ""
+
+#: ../includes/customizer/option-services.php:193
+msgid "Select your desire layout for archive page"
+msgstr ""
+
+#: ../includes/customizer/option-services.php:198
+msgid "Grid Fullwidth"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:20
+msgid "Select your theme Font Family"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:100
+msgid "Body Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:113
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:126
+msgid "Homepage Header Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:139
+msgid "Page Top Header Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:152
+msgid "Page Top Subtitle Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:165
+msgid "Page Content Header Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:178
+msgid "Sidebar Header Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:191
+msgid "Footer Header Font Size"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:199
+msgid "Color Schemes"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:214
+msgid "Global Theme Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:231
+msgid "Top Header Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:248
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:265
+msgid "Menu Text Current Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:282
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:299
+msgid "Header Text Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:316
+msgid "Sidebar Header Text Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:333
+msgid "Button Text Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:350
+msgid "Button Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:367
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:384
+msgid "Footer Header Text Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:401
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../includes/customizer/option-typography.php:418
+msgid "Sliding Bar Background Color"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:23 ../includes/lib/custom-fields.php:166
+#: ../includes/posts/post-portfolio.php:77
+msgid "Main Settings"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:32 ../includes/lib/custom-fields.php:101
+msgid "Audio"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:44 ../includes/lib/custom-fields.php:178
+#: ../includes/posts/post-portfolio.php:92
+#: ../includes/posts/post-properties.php:133
+#: ../includes/posts/post-services.php:93
+msgid "Hide Search"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:47
+#: ../includes/posts/post-portfolio.php:95
+#: ../includes/posts/post-properties.php:136
+#: ../includes/posts/post-services.php:95
+msgid "Tick the box to hide advance search in this post"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:57 ../includes/lib/custom-fields.php:205
+#: ../includes/posts/post-portfolio.php:112
+#: ../includes/posts/post-properties.php:232
+#: ../includes/posts/post-services.php:142
+msgid "Header Image"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:60 ../includes/lib/custom-fields.php:208
+#: ../includes/posts/post-portfolio.php:115
+#: ../includes/posts/post-properties.php:237
+#: ../includes/posts/post-services.php:145
+msgid ""
+"Please upload header image. Otherwise default header image from theme "
+"options will be displayed"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:67 ../includes/lib/custom-fields.php:215
+#: ../includes/posts/post-portfolio.php:122
+#: ../includes/posts/post-properties.php:248
+#: ../includes/posts/post-services.php:152
+msgid ""
+"Please upload background image. Otherwise default background image from "
+"theme options will be displayed"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:77
+msgid "Video Host"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:80
+msgid "Select Video Host"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:81
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:82
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:83
+msgid "Self Hosted"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:84
+msgid ""
+"Select your video host here either YouTube, Vimeo or Self Hosted. Please "
+"make sure you selected the video post format"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:91
+msgid ""
+"Add your video embedded code here (ex. http://player.vimeo.com/"
+"video/21942776 and http://youtube.com/embed/68AqHwgk2s8) or just click "
+"upload for self hosted video"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:106
+#, php-format
+msgid "Add your audio embedded code %1$s from soundcloud"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:136
+msgid ""
+"Select your slider if you want to use revolution slider in blog single page"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:181
+msgid "Tick the box to hide advance search in this page"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:185
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:188
+msgid "Provide your page title here, this will replace your default page title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:192
+msgid "Page Subtitle"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:195
+msgid ""
+"Provide your page subtitle here, this will be added at the bottom of your "
+"page title"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:231
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/lib/custom-fields.php:239
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../loop-services.php:9
+msgid "More Details"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/post-format/format-image.php:30
+#: ../includes/widgets/widget-popular.php:53
+#: ../includes/widgets/widget-portfolio.php:56
+#: ../loop-portfolio-sidebar.php:17 ../loop-portfolio.php:18
+#: ../loop-properties.php:38 ../loop-property-1col.php:34
+#: ../loop-property-2cols.php:36 ../loop-property-3cols.php:38
+#: ../loop-property-4cols.php:36 ../loop-property-home.php:37
+#: ../template-print.php:110
+msgid "No Image Available"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../loop-properties.php:87
+#: ../loop-property-1col.php:76 ../loop-property-2cols.php:81
+#: ../loop-property-3cols.php:74 ../loop-property-4cols.php:81
+#: ../loop-property-home.php:81 ../single-homeland_properties.php:250
+#: ../template-print.php:161
+msgid "Bedrooms"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../loop-properties.php:95
+#: ../loop-property-1col.php:83 ../loop-property-2cols.php:89
+#: ../loop-property-3cols.php:82 ../loop-property-4cols.php:89
+#: ../loop-property-home.php:88 ../single-homeland_properties.php:254
+#: ../template-print.php:168
+msgid "Bathrooms"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:402
+msgid "Location"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2642
+#: ../includes/posts/post-properties.php:354
+#: ../includes/posts/post-properties.php:454 ../template-print.php:126
+msgid "Type"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2647
+#: ../includes/posts/post-properties.php:378
+#: ../includes/posts/post-properties.php:455 ../template-print.php:133
+msgid "Status"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Minimum Price"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Maximum Price"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Search"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Latest Property"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Latest News"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Posted by:"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:89
+msgid "View Properties"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/widgets/widget-agent.php:69
+msgid "Listed:"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/widgets/widget-agent.php:75 ../template-about.php:96
+#: ../template-agents-fullwidth.php:125
+#: ../template-agents-grid-left-sidebar.php:116
+#: ../template-agents-grid-right-sidebar.php:116
+#: ../template-agents-left-sidebar.php:165
+#: ../template-agents-list-fullwidth.php:163 ../template-agents.php:166
+msgid "No Agents found!"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Featured Property"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+#: ../includes/posts/post-properties.php:182 ../loop-properties.php:103
+#: ../loop-property-1col.php:90 ../loop-property-2cols.php:97
+#: ../single-homeland_properties.php:258 ../template-print.php:175
+msgid "Garage"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Customer Says"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Trusted Partners"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Our Works"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Share"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Call us"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:90
+msgid "Logout"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Hi"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:63
+msgid "Remember Me"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1 ../template-login.php:73
+msgid "Lost your Password?"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Get New Password"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Company Address"
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Add your call to action text description here."
+msgstr ""
+
+#: ../includes/lib/custom-functions.php:1
+msgid "Contact Us"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:35
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:37
+msgid "Main widgets of the theme"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:45
+msgid "Sliding Bar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:47
+msgid "Sliding Bar widgets of the theme located at the top of the website"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:55
+msgid "Top Slider"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:57
+msgid "Top slider widgets of the theme for revolution slider"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:65
+msgid "Search Type"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:67
+msgid ""
+"Search Type widgets of the theme for IDX listing search. Leave it empty if "
+"you want to use the default Advance Search"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:75
+msgid "Dual Sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:77
+msgid ""
+"This widgets of the theme is for dual sidebar, this is displayed in left "
+"sidebar"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:85
+msgid "Footer One"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:87 ../includes/lib/custom-widgets.php:97
+#: ../includes/lib/custom-widgets.php:107
+#: ../includes/lib/custom-widgets.php:117
+msgid "Footer column widget of the theme"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:95
+msgid "Footer Two"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:105
+msgid "Footer Three"
+msgstr ""
+
+#: ../includes/lib/custom-widgets.php:115
+msgid "Footer Four"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:394
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../includes/lib/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/post-format/format-image.php:5 ../loop-entry-timeline.php:46
+msgid "Learn More"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:11
+msgid "Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:14
+#: ../includes/posts/post-portfolio.php:20
+#: ../includes/posts/post-properties.php:20
+#: ../includes/posts/post-services.php:20
+#: ../includes/posts/post-testimonials.php:14
+msgid "Add New"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:15
+msgid "Add New Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:16
+msgid "New Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:17
+msgid "Edit Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:18
+msgid "View Partner"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:19
+msgid "All Partners"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:20
+msgid "Search Partners"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:21
+msgid "Parent Partners:"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:22
+msgid "No partners found."
+msgstr ""
+
+#: ../includes/posts/post-partners.php:23
+msgid "No partners found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-partners.php:28
+#: ../includes/posts/post-portfolio.php:34
+#: ../includes/posts/post-properties.php:34
+#: ../includes/posts/post-services.php:34
+#: ../includes/posts/post-testimonials.php:28
+msgid "Description."
+msgstr ""
+
+#: ../includes/posts/post-partners.php:34
+msgid "partner-item"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:63
+msgid "Website Link"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:65
+msgid "Provide your partner website link here"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:85
+#: ../includes/posts/post-portfolio.php:237
+#: ../includes/posts/post-properties.php:456
+#: ../includes/posts/post-testimonials.php:83
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:102
+msgid "No URL"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:104
+#: ../includes/posts/post-partners.php:105
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/posts/post-partners.php:130
+msgid "Partner Options"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:21
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:22
+msgid "New Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:23
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:24
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:25
+msgid "All Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:26
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:27
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:28
+msgid "No portfolio found."
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:29
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:99
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:102
+msgid "Provide your portfolio website url"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:151
+msgid ""
+"Select your slider if you want to use revolution slider in portfolio single "
+"page"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:172
+#: ../includes/posts/post-portfolio.php:173
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:174
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:175
+msgid "All Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:176
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:177
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:178
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:179
+msgid "New Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:180
+#: ../includes/posts/post-portfolio.php:235
+msgid "Categories"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:181
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:196
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:197
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:198
+msgid "Portfolio Search Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:199
+msgid "Portfolio Popular Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:200
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:201
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:202
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:203
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:204
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:205
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:206
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:207
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:208
+#: ../single-homeland_portfolio.php:111
+msgid "Tags"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:265
+msgid "No Categories"
+msgstr ""
+
+#: ../includes/posts/post-portfolio.php:293
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:17
+msgid "Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:21
+msgid "Add New Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:22
+msgid "New Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:23
+msgid "Edit Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:24
+msgid "View Property"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:25
+msgid "All Properties"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:26
+msgid "Search Properties"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:27
+msgid "Parent Properties:"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:28
+msgid "No properties found."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:29
+msgid "No properties found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:115
+#: ../includes/posts/post-services.php:79
+msgid "Main Information"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:139 ../loop-properties.php:25
+#: ../loop-property-1col.php:19 ../loop-property-2cols.php:22
+#: ../loop-property-3cols.php:23 ../loop-property-4cols.php:22
+#: ../loop-property-home.php:22 ../single-homeland_properties.php:174
+msgid "Featured"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:141
+msgid ""
+"Checking this box will display it in featured properties sections across the "
+"theme and also it will be included in your homepage slider."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:148
+msgid "Tick the box if this property is already sold"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:154
+msgid "Provide your property id here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:160
+msgid "Per"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:161
+msgid ""
+"Provide your property price here. Please add number digits only (Example: "
+"100000)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:166
+#: ../includes/posts/post-properties.php:173
+msgid "Unit"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:166
+msgid "Provide property lot area and unit here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:173
+msgid "Provide property floor area and unit here"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:177
+#: ../single-homeland_properties.php:262 ../template-print.php:182
+msgid "Year Built"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:179
+msgid ""
+"Provide property year built. Please add number digits only (Example: 2015)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:183
+msgid "Provide property garage. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:186
+#: ../single-homeland_properties.php:246 ../template-print.php:154
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:187
+msgid "Provide property room number. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:190
+msgid "Bedroom"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:191
+msgid "Provide property bedroom. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:194
+msgid "Bathroom"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:195
+msgid "Provide property bathroom. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:198
+#: ../single-homeland_properties.php:266 ../template-print.php:192
+msgid "Stories"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:199
+msgid "Provide property number of stories. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:202
+#: ../single-homeland_properties.php:270 ../template-print.php:199
+msgid "Basement"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:203
+msgid "Provide property basement. Please add number digits only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:206
+#: ../single-homeland_properties.php:282
+msgid "Zip Code"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:207
+msgid "Provide property zip code"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:211
+#: ../single-homeland_properties.php:274 ../template-print.php:206
+msgid "Structure Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:213
+msgid "Provide property structure type."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:216
+#: ../single-homeland_properties.php:278 ../template-print.php:213
+msgid "Roofing"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:217
+msgid "Provide property roofing."
+msgstr ""
+
+#: ../includes/posts/post-properties.php:222
+msgid "Provide property address here (city/state/province/country)"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:260
+msgid "Slider Thumbnails"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:263
+msgid "Checking this box will hide all thumbnails in property slider"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:285
+msgid ""
+"Select your slider if you want to use revolution slider in property single "
+"page"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:296
+#, php-format
+msgid ""
+"Get google map latitude and longitude value <a href=\"%s\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:302
+msgid "Hide"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:305
+msgid "Check the box to hide map on properties"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:309
+#: ../includes/widgets/widget-gmap.php:110
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: ../includes/posts/post-properties.php:312
+msgid "Add your property latitude for google map"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:316
+#: ../includes/widgets/widget-gmap.php:113
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:319
+msgid "Add your property longitude for google map"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:323
+msgid "Map Zoom"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:326
+msgid "Add your map zoom value (1-20) only"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:348
+msgid "Search Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:349
+msgid "All Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:350
+msgid "Edit Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:351
+msgid "Update Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:352
+msgid "Add New Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:353
+msgid "New Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:355
+msgid "Parent Property Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:372
+msgid "Search Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:373
+msgid "All Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:374
+msgid "Edit Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:375
+msgid "Update Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:376
+msgid "Add New Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:377
+msgid "New Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:379
+msgid "Parent Property Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:396
+msgid "Search Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:397
+msgid "All Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:398
+msgid "Edit Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:399
+msgid "Update Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:400
+msgid "Add New Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:401
+msgid "New Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:403
+msgid "Parent Property Location"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:418
+#: ../includes/posts/post-properties.php:419
+msgid "Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:420
+msgid "Search Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:421
+msgid "All Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:422
+msgid "Edit Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:423
+msgid "Update Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:424
+msgid "Add New Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:425
+msgid "New Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:426
+#: ../single-homeland_properties.php:30
+msgid "Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:427
+msgid "Parent Property Amenities"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:551
+msgid "No Type"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:575
+msgid "SOLD"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:587
+msgid "No Status"
+msgstr ""
+
+#: ../includes/posts/post-properties.php:608
+msgid "Property Options"
+msgstr ""
+
+#: ../includes/posts/post-services.php:17
+msgid "Service"
+msgstr ""
+
+#: ../includes/posts/post-services.php:21
+msgid "Add New Service"
+msgstr ""
+
+#: ../includes/posts/post-services.php:22
+msgid "New Service"
+msgstr ""
+
+#: ../includes/posts/post-services.php:23
+msgid "Edit Service"
+msgstr ""
+
+#: ../includes/posts/post-services.php:24
+msgid "View Service"
+msgstr ""
+
+#: ../includes/posts/post-services.php:25
+msgid "All Services"
+msgstr ""
+
+#: ../includes/posts/post-services.php:26
+msgid "Search Services"
+msgstr ""
+
+#: ../includes/posts/post-services.php:27
+msgid "Parent Services:"
+msgstr ""
+
+#: ../includes/posts/post-services.php:28
+msgid "No services found."
+msgstr ""
+
+#: ../includes/posts/post-services.php:29
+msgid "No services found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-services.php:82
+#: ../includes/posts/post-services.php:186
+msgid "Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:99
+msgid "Custom Link"
+msgstr ""
+
+#: ../includes/posts/post-services.php:102
+msgid "Provide your custom services link here"
+msgstr ""
+
+#: ../includes/posts/post-services.php:111
+msgid "Retina Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:113
+msgid "Select your services icon below, just click on the icons"
+msgstr ""
+
+#: ../includes/posts/post-services.php:129
+msgid "Custom Icon"
+msgstr ""
+
+#: ../includes/posts/post-services.php:132
+msgid "Please upload custom icon by clicking upload button"
+msgstr ""
+
+#: ../includes/posts/post-services.php:185
+msgid "Link"
+msgstr ""
+
+#: ../includes/posts/post-services.php:237
+msgid "Services Options"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:11
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:15
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:17
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:19
+msgid "All Testimonials"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:20
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:21
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:22
+msgid "No testimonials found."
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:23
+msgid "No testimonials found in Trash."
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:34
+msgid "testimonial-item"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:62
+#: ../includes/posts/post-testimonials.php:82
+msgid "Position"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:64
+msgid "Provide a user position"
+msgstr ""
+
+#: ../includes/posts/post-testimonials.php:123
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:11
+msgid "Custom widget for property advance search"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:13
+msgid "Homeland: Advance Search Property"
+msgstr ""
+
+#: ../includes/widgets/widget-advance-search.php:52
+msgid "Property Advance Search will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:9
+msgid "Custom widget for agents"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:10
+msgid "Homeland: Agents"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:103
+#: ../includes/widgets/widget-dribbble.php:102
+#: ../includes/widgets/widget-popular.php:92
+#: ../includes/widgets/widget-portfolio.php:91
+#: ../includes/widgets/widget-twitter.php:97
+msgid "Limit"
+msgstr ""
+
+#: ../includes/widgets/widget-agent.php:107
+msgid ""
+"Top Agents List will display automatically base on the number of properties "
+"they listed..."
+msgstr ""
+
+#: ../includes/widgets/widget-contact.php:9
+msgid "Custom widget for contact information"
+msgstr ""
+
+#: ../includes/widgets/widget-contact.php:10
+msgid "Homeland: Contact Information"
+msgstr ""
+
+#: ../includes/widgets/widget-contact.php:115
+#: ../template-contact-alternate.php:36 ../template-contact-alternate2.php:46
+#: ../template-contact.php:42
+msgid "Phone"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:9
+msgid "Custom widget for dribbble feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:10
+msgid "Homeland: Dribbble Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:93
+msgid "Client Access Token"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:98
+#, php-format
+msgid ""
+"Get your client access token here <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:9
+msgid "Custom widget for facebook like box"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:10
+msgid "Homeland: Facebook Like Box"
+msgstr ""
+
+#: ../includes/widgets/widget-facebook-like.php:55
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:9
+msgid "Custom widget for featured properties"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:10
+msgid "Homeland: Featured Properties"
+msgstr ""
+
+#: ../includes/widgets/widget-featured-properties.php:114
+msgid "Number of Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:9
+msgid "Custom widget for flickr feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:10
+msgid "Homeland: Flickr Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:92
+msgid "Number of Images"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:9
+msgid "Custom widget for connect with us"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:10
+msgid "Homeland: Connect with us"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-us.php:91
+msgid ""
+"Social links will automatically display, set id and name in Theme Options"
+msgstr ""
+
+#: ../includes/widgets/widget-gmap.php:9
+msgid "Custom widget for google map"
+msgstr ""
+
+#: ../includes/widgets/widget-gmap.php:10
+msgid "Homeland: Google Map"
+msgstr ""
+
+#: ../includes/widgets/widget-gmap.php:116
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:9
+msgid "Custom widget for popular posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:10
+msgid "Homeland: Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:96
+msgid "Popular Posts are automatically displayed from blog posts"
+msgstr ""
+
+#: ../includes/widgets/widget-portfolio.php:11
+msgid "Custom widget for portfolio"
+msgstr ""
+
+#: ../includes/widgets/widget-portfolio.php:13
+msgid "Homeland: Portfolio"
+msgstr ""
+
+#: ../includes/widgets/widget-portfolio.php:95
+msgid "Portfolio are automatically displayed"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:9
+msgid "Custom widget for property amenities"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:10
+msgid "Homeland: Search By Amenities"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:46
+#: ../includes/widgets/widget-search-location.php:46
+#: ../includes/widgets/widget-search-status.php:46
+#: ../includes/widgets/widget-search-type.php:46
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/widgets/widget-search-amenities.php:68
+msgid "Property Amenities will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-search-location.php:9
+msgid "Custom widget for property location"
+msgstr ""
+
+#: ../includes/widgets/widget-search-location.php:10
+msgid "Homeland: Search By Location"
+msgstr ""
+
+#: ../includes/widgets/widget-search-location.php:68
+msgid "Property Location will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-search-status.php:9
+msgid "Custom widget for property status"
+msgstr ""
+
+#: ../includes/widgets/widget-search-status.php:10
+msgid "Homeland: Search By Status"
+msgstr ""
+
+#: ../includes/widgets/widget-search-status.php:68
+msgid "Property Status will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-search-type.php:9
+msgid "Custom widget for property type"
+msgstr ""
+
+#: ../includes/widgets/widget-search-type.php:10
+msgid "Homeland: Search By Type"
+msgstr ""
+
+#: ../includes/widgets/widget-search-type.php:68
+msgid "Property Type will automatically display"
+msgstr ""
+
+#: ../includes/widgets/widget-testimonials.php:11
+msgid "Custom widget for testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-testimonials.php:13
+msgid "Homeland: Testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-testimonials.php:92
+msgid "Number of Testimonials"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:9
+msgid "Custom widget for twitter feed"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:10
+msgid "Homeland: Twitter Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:100
+msgid "Loading Text"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:9
+msgid "Custom widget for video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:10
+msgid "Homeland: Video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:60
+msgid "Video iFrame"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:63
+msgid "Please enter the entire embedd codes from vimeo, youtube or dailymotion"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:9
+msgid "Custom widget for working hours"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:10
+msgid "Homeland: Working Hours"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:53
+#: ../includes/widgets/widget-working-hours.php:130
+msgid "Monday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:57
+#: ../includes/widgets/widget-working-hours.php:137
+msgid "Tuesday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:61
+#: ../includes/widgets/widget-working-hours.php:144
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:65
+#: ../includes/widgets/widget-working-hours.php:151
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:69
+#: ../includes/widgets/widget-working-hours.php:158
+msgid "Friday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:73
+#: ../includes/widgets/widget-working-hours.php:165
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/widgets/widget-working-hours.php:77
+#: ../includes/widgets/widget-working-hours.php:172
+msgid "Sunday"
+msgstr ""
+
+#: ../loop-properties.php:19 ../loop-property-4cols.php:16
+msgid "View More Details"
+msgstr ""
+
+#: ../loop-properties.php:119
+msgid "Agent:"
+msgstr ""
+
+#: ../search.php:21
+msgid "The Keyword you search cannot be found!"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:105
+msgid "Live Demo"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:127
+msgid "Previous Portfolio"
+msgstr ""
+
+#: ../single-homeland_portfolio.php:131
+msgid "Next Portfolio"
+msgstr ""
+
+#: ../single-homeland_properties.php:31
+msgid "Property Map"
+msgstr ""
+
+#: ../single-homeland_properties.php:32
+msgid "Contact Agent"
+msgstr ""
+
+#: ../single-homeland_properties.php:33
+msgid "Other Properties"
+msgstr ""
+
+#: ../single-homeland_properties.php:34 ../template-agents-fullwidth.php:16
+#: ../template-agents-left-sidebar.php:17
+#: ../template-agents-list-fullwidth.php:17 ../template-agents.php:17
+#: ../template-login.php:88
+msgid "View Profile"
+msgstr ""
+
+#: ../single-homeland_properties.php:141
+msgid "Property ID : "
+msgstr ""
+
+#: ../single-homeland_properties.php:162
+msgid "Print"
+msgstr ""
+
+#: ../single-homeland_properties.php:437
+msgid "You have successfully send your message to this agent!"
+msgstr ""
+
+#: ../single-homeland_properties.php:446
+msgid "Send"
+msgstr ""
+
+#: ../single-homeland_properties.php:503
+msgid "Previous Property"
+msgstr ""
+
+#: ../single-homeland_properties.php:510
+msgid "Next Property"
+msgstr ""
+
+#: ../single.php:107
+msgid "Previous Post"
+msgstr ""
+
+#: ../single.php:111
+msgid "Next Post"
+msgstr ""
+
+#: ../taxonomy-homeland_property_amenities.php:113
+#: ../taxonomy-homeland_property_location.php:114
+#: ../taxonomy-homeland_property_status.php:114
+#: ../taxonomy-homeland_property_type.php:114
+#: ../template-properties-grid-left-sidebar.php:81
+#: ../template-property-search.php:110
+msgid "Properties found..."
+msgstr "خصائص وجدت ..."
+
+#: ../template-about.php:15
+msgid "Our Team"
+msgstr ""
+
+#: ../template-agents-left-sidebar.php:155
+#: ../template-agents-list-fullwidth.php:153 ../template-agents.php:156
+msgid "Listed"
+msgstr ""
+
+#: ../template-coming-soon.php:39
+msgid "Our Site is Almost Ready"
+msgstr ""
+
+#: ../template-coming-soon.php:42
+msgid ""
+"Hello, It's nice to meet you. We'll be back soon once we're done building "
+"this site."
+msgstr ""
+"مرحبا، انه لطيف لمقابلتك. سنكون مرة أخرى قريبا بمجرد الانتهاء من ذلك بناء "
+"هذا الموقع."
+
+#: ../template-coming-soon.php:45
+msgid "Time left until launching"
+msgstr "الوقت المتبقي حتى إطلاق"
+
+#: ../template-homepage-revslider.php:21 ../template-homepage.php:26
+msgid "Please add revolution slider widget here..."
+msgstr "الرجاء إضافة الثورة المنزلق القطعة هنا ..."
+
+#: ../template-login.php:49
+msgid "Already a member? Please login here"
+msgstr ""
+
+#: ../template-login.php:82
+msgid "Howdy"
+msgstr ""
+
+#: ../template-print.php:220
+msgid "Zip"
+msgstr ""
+
+#: ../template-print.php:231
+msgid "Features"
+msgstr ""
+
+#: ../template-print.php:295
+msgid "Copyright"
+msgstr ""
+
+#: ../template-property-search.php:167
+msgid "Your search query returned 0 results!"
+msgstr "عاد استعلام البحث الخاص بك 0 النتائج!"
+
+#: ../template-sitemap.php:30
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:54
+msgid "Blog Post"
+msgstr ""
+
+#: ../template-sitemap.php:67
+msgid "Archives"
+msgstr ""
+
+#: ../template-sitemap.php:82
+msgid "Blog Categories"
+msgstr ""
+
+#: ../template-sitemap.php:101
+msgid "No categories"
+msgstr ""
+
+#: ../template-sitemap.php:134
+msgid "No property types"
+msgstr ""
+
+#: ../template-sitemap.php:165
+msgid "No property status"
+msgstr "أي وضع الملكية"
+
+#: ../template-sitemap.php:196
+msgid "No property location"
+msgstr "لا موقع العقار"
+
+#~ msgid "Hide Portfolio in homepage"
+#~ msgstr "إخفاء المحفظة في الصفحة الرئيسية"
+
+#~ msgid "Add header label of your portfolio list"
+#~ msgstr "إضافة تسمية رأس قائمة محفظتك"
+
+#~ msgid "Enter your portfolio number of posts limit"
+#~ msgstr "أدخل رقم محفظتك من المشاركات الحد"
+
+#~ msgid "Select your portfolio order type"
+#~ msgstr "حدد نوع النظام محفظة"
+
+#~ msgid "Select your sort by parameter for portfolio"
+#~ msgstr "حدد نوع الخاصة بك عن طريق المعلمة لمحفظة"
+
+#~ msgid "Select your partner order type"
+#~ msgstr "حدد نوع النظام شريك"
+
+#~ msgid "Select your sort by parameter for partner"
+#~ msgstr "حدد نوع الخاصة بك عن طريق المعلمة عن شريك"
+
+#~ msgid "Enter your google map latitude"
+#~ msgstr "أدخل خريطة جوجل خط العرض"
